@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmarHAli
 - 👀 I’m interested in gaming, programming, VR/AR and new tech
-- 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate on Javascript and React projects to practice
+- 🌱 I’m currently learning Swift and launching my first iOS app soon.
 - 📫 How to reach me at omar.hassan.ali86@gmail.com
 
 <!---
