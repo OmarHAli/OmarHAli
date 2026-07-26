@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarHAli
 - 👀 I’m interested in gaming, programming, VR/AR and new tech
-- 🌱 I’m currently learning Swift and launching my first iOS app soon.
+- 🌱 I’m currently learning Swift and my first iOS app is live on the app store.
 - 📫 How to reach me at omar.hassan.ali86@gmail.com
 
 <!---
